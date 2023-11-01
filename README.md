@@ -1,7 +1,7 @@
 ### Olá, eu sou a Maria Eduarda 💜
 
 ### Redes Sociais
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/maria-eduarda-macedo4578-681a85268)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-eduarda-macedo-681a85268/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/2501.du/)
 
 ![Maria GitHub stats](https://github-readme-stats.vercel.app/api?username=MariaEduardaMacedo&show_icons=true&theme=dracula)
